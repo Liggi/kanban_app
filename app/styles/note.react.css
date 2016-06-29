@@ -1,0 +1,12 @@
+Note {
+  base: section;
+  color: red;
+}
+
+Note:prop(isLarge) {
+  font-size: 25px;
+}
+
+Note:prop(isEmphasised) {
+  font-weight: bold;
+}
